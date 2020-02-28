@@ -1,0 +1,11 @@
+H:\2016-2017\A1.vb\A1.vb\bin\Debug\A1.vb.exe.config
+H:\2016-2017\A1.vb\A1.vb\bin\Debug\A1.vb.exe
+H:\2016-2017\A1.vb\A1.vb\bin\Debug\A1.vb.pdb
+H:\2016-2017\A1.vb\A1.vb\bin\Debug\A1.vb.xml
+H:\2016-2017\A1.vb\A1.vb\obj\Debug\A1.vb.vbprojResolveAssemblyReference.cache
+H:\2016-2017\A1.vb\A1.vb\obj\Debug\A1.vb.Form1.resources
+H:\2016-2017\A1.vb\A1.vb\obj\Debug\A1.vb.Resources.resources
+H:\2016-2017\A1.vb\A1.vb\obj\Debug\A1.vb.vbproj.GenerateResource.Cache
+H:\2016-2017\A1.vb\A1.vb\obj\Debug\A1.vb.exe
+H:\2016-2017\A1.vb\A1.vb\obj\Debug\A1.vb.xml
+H:\2016-2017\A1.vb\A1.vb\obj\Debug\A1.vb.pdb

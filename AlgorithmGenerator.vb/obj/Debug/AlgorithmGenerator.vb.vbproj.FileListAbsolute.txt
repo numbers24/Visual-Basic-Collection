@@ -1,0 +1,22 @@
+c:\users\deangelis.chris\documents\visual studio 2015\Projects\AlgorithmGenerator.vb\AlgorithmGenerator.vb\bin\Debug\AlgorithmGenerator.vb.exe.config
+c:\users\deangelis.chris\documents\visual studio 2015\Projects\AlgorithmGenerator.vb\AlgorithmGenerator.vb\obj\Debug\AlgorithmGenerator.vb.vbprojResolveAssemblyReference.cache
+c:\users\deangelis.chris\documents\visual studio 2015\Projects\AlgorithmGenerator.vb\AlgorithmGenerator.vb\obj\Debug\AlgorithmGenerator.vb.frmXP.resources
+c:\users\deangelis.chris\documents\visual studio 2015\Projects\AlgorithmGenerator.vb\AlgorithmGenerator.vb\obj\Debug\AlgorithmGenerator.vb.Resources.resources
+c:\users\deangelis.chris\documents\visual studio 2015\Projects\AlgorithmGenerator.vb\AlgorithmGenerator.vb\obj\Debug\AlgorithmGenerator.vb.vbproj.GenerateResource.Cache
+c:\users\deangelis.chris\documents\visual studio 2015\Projects\AlgorithmGenerator.vb\AlgorithmGenerator.vb\obj\Debug\AlgorithmGenerator.vb.xml
+c:\users\deangelis.chris\documents\visual studio 2015\Projects\AlgorithmGenerator.vb\AlgorithmGenerator.vb\bin\Debug\AlgorithmGenerator.vb.exe
+c:\users\deangelis.chris\documents\visual studio 2015\Projects\AlgorithmGenerator.vb\AlgorithmGenerator.vb\bin\Debug\AlgorithmGenerator.vb.pdb
+c:\users\deangelis.chris\documents\visual studio 2015\Projects\AlgorithmGenerator.vb\AlgorithmGenerator.vb\bin\Debug\AlgorithmGenerator.vb.xml
+c:\users\deangelis.chris\documents\visual studio 2015\Projects\AlgorithmGenerator.vb\AlgorithmGenerator.vb\obj\Debug\AlgorithmGenerator.vb.exe
+c:\users\deangelis.chris\documents\visual studio 2015\Projects\AlgorithmGenerator.vb\AlgorithmGenerator.vb\obj\Debug\AlgorithmGenerator.vb.pdb
+H:\2016-2017\AlgorithmGenerator.vb\bin\Debug\AlgorithmGenerator.vb.exe.config
+H:\2016-2017\AlgorithmGenerator.vb\obj\Debug\AlgorithmGenerator.vb.exe
+H:\2016-2017\AlgorithmGenerator.vb\obj\Debug\AlgorithmGenerator.vb.xml
+H:\2016-2017\AlgorithmGenerator.vb\obj\Debug\AlgorithmGenerator.vb.pdb
+H:\2016-2017\AlgorithmGenerator.vb\bin\Debug\AlgorithmGenerator.vb.exe
+H:\2016-2017\AlgorithmGenerator.vb\bin\Debug\AlgorithmGenerator.vb.pdb
+H:\2016-2017\AlgorithmGenerator.vb\bin\Debug\AlgorithmGenerator.vb.xml
+H:\2016-2017\AlgorithmGenerator.vb\obj\Debug\AlgorithmGenerator.vb.vbprojResolveAssemblyReference.cache
+H:\2016-2017\AlgorithmGenerator.vb\obj\Debug\AlgorithmGenerator.vb.frmXP.resources
+H:\2016-2017\AlgorithmGenerator.vb\obj\Debug\AlgorithmGenerator.vb.Resources.resources
+H:\2016-2017\AlgorithmGenerator.vb\obj\Debug\AlgorithmGenerator.vb.vbproj.GenerateResource.Cache
